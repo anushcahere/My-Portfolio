@@ -27,11 +27,3 @@ I also love creating aesthetic visual content and editing videos.
 
 ---
 
-## 🚀 Projects
-
-| Project          | Description                                     | Live Demo                           |
-| ---------------- | ----------------------------------------------- | ----------------------------------- |
-| **StockView**    | Real-time stock analysis and prediction website | https://stockview-pearl.vercel.app/ |
-| **WeatherWiser** | Clean and minimalist weather forecasting app    | https://weatherwiser.vercel.app/    |
-
----
